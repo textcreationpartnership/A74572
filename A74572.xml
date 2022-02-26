@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the continuance and maintenance of the alms-houses &amp; alms-men called Poor Knights, and other charitable and pious uses, whereof the late dean and canons of Windsor were feoffees in trust.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74572</idno>
+            <idno type="STC">Thomason E1064_50</idno>
+            <idno type="STC">ESTC R19579</idno>
+            <idno type="EEBO-CITATION">99860699</idno>
+            <idno type="PROQUEST">99860699</idno>
+            <idno type="VID">112824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the continuance and maintenance of the alms-houses &amp; alms-men called Poor Knights, and other charitable and pious uses, whereof the late dean and canons of Windsor were feoffees in trust.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 29-41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills and John Field, printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: filmed copy dark with some loss of text.</note>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almshouses --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112824:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For the Continuance and Maintenance of the ALMS-HOUSES &amp; ALMS-MEN CALLED POOR KNIGHTS, AND OTHER Charitable and Pious Uſes, Whereof the late DEAN and CANONS of <hi>Windſor</hi> were Feoffees in Truſt.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Thurſday</hi> the Fifteenth of <hi>February,</hi> 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by His Highneſs the Lord Protector and the Council, That the Ordinance, Entituled [<hi>An Ordinance for the Continuance and Maintenance of the Alms-Houſes and Alms-Men, called</hi> Poor Knights, <hi>and other Charitable and Pious <g ref="char:V">Ʋ</g>ſes, whereof the late Dean and Canons of</hi> Windſor <hi>were Feoffees in Truſt</hi>] being paſſed by His Highneſs the Lord Protector, with the Conſent of His Council, on <hi>Saturday</hi> the Second of <hi>September,</hi> 1654. be Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs. MDCLV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112824:2"/>
+            <pb n="29" facs="tcp:112824:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE FOR THE Continuance and Maintenance of the Alms-Houſes, and Alms-Men, called POOR KNIGHTS And other Charitable and Pious Uſes, Whereof the late <hi>Dean</hi> and <hi>Canons</hi> of <hi>Windſor</hi> were Feoffees in Truſt.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſs the Lord Protector being zealous to continue and eſtabliſh all Works and Founda<g ref="char:EOLhyphen"/>tions tending to the Advance<g ref="char:EOLhyphen"/>ment of Learning, or any other Charitable and Pious Vſe or Vſes whatſoever; and more particularly the Charitable and Pious Work and Foundation of the Alms-Houſes, and Alms-Men, called <hi>Poor Knights,</hi> and of certain neceſſary Officers, (to wit, a Miniſter, a Weekly Lecturer, a Re<g ref="char:EOLhyphen"/>giſter, a Chappel-clerk, a Sexton, a Clock-keeper
+<pb n="30" facs="tcp:112824:3"/>and Bell-ringer, a Porter belonging to <hi>Windſor</hi> Caſtle; and alſo of Four Scholars, whereof two in the Vniverſity of <hi>Oxford,</hi> and two in the Vniverſity of <hi>Cambridge,</hi> and of preaching in the ſaid Caſtle and Town of <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> and Relief of the poor there; in relation whereunto the late Dean and Canons of <hi>Windſor,</hi> were Feoffees in Truſt of the Lands, Tenements and Hereditamens here<g ref="char:EOLhyphen"/>after expreſſed for the Vſes aforeſaid: And His Highneſs taking notice, That the Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> in Parliament aſſembled, did by the late Act for <hi>Aboliſhing of Deans, Deans and Chapters, &amp;c.</hi> and ſetling their Ho<g ref="char:EOLhyphen"/>nors; Manors, Lands and Here ditaments in the actual Seiſin and Poſſeſſion of Sir <hi>John Wollaſton,</hi> and other Truſtees in the ſaid Act named and their Heirs, Provide, That all and ſingular the Revenues, Rents, Iſſues, Fees, Profits, Sums of Money, and Allow<g ref="char:EOLhyphen"/>ances whatſoever, which before the Firſt of <hi>December</hi> One thouſand ſix hundred forty one, had been, and then ought to have been paid, diſpoſed and alowed unto, and for the Main<g ref="char:EOLhyphen"/>tenance of any Grammar-School or Scho<g ref="char:EOLhyphen"/>lars, or for or towards the Reparation of any Alms-houſe, or for any other charitable Vſe, payable out of any of the ſaid Premiſes, ſhould be and continue to be paid and alowed as they were before the ſaid Firſt day of <hi>December</hi> One thouſand ſix hundred forty one, Any thing in that Act to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding, as in and by the ſaid Act, amongſt other things, more at large it doth and may appear: Since which Act His Highneſs be<g ref="char:EOLhyphen"/>ing informed and fully ſatisfied, That the
+<pb n="31" facs="tcp:112824:3"/>Lands and Tenements hereafter expreſſed, ſo by the ſaid Act veſted in the ſaid Truſtees are yet ſtill charged and chargeable with the ſaid charitable and pious Vſes, with which the ſame were formerly chargeable; And His Highneſs reſolving to continue, ſettle and eſta<g ref="char:EOLhyphen"/>bliſh for ever the ſaid charitable and pious Work and Foundation, and likewiſe Gover<g ref="char:EOLhyphen"/>nors for the better ordering, managing and diſpoſing of the ſaid Revenues to thoſe chari<g ref="char:EOLhyphen"/>table and pious Ends and Purpoſes, Hath, by and with the conſent of His Council Ordain<g ref="char:EOLhyphen"/>ed, and it is Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the Lord Commiſſioner <hi>Whitlock,</hi> Lord Preſident of the Council for the time be<g ref="char:EOLhyphen"/>ing, Lord <hi>Wharton,</hi> Colonel <hi>Sydenham,</hi> Colonel <hi>Mountague,</hi> Colonel <hi>Mackworth,</hi> Colonel <hi>Jones, Francis Rous</hi> 
+               <abbr>Eſq</abbr> Provoſt of <hi>Eaton</hi> Colledge, Major General <hi>Skippon,</hi> Colonel <hi>George Fleet<g ref="char:EOLhyphen"/>wood, Cornelius Holland, Symon Mayn,</hi> 
+               <abbr>Eſqs</abbr> ſir <hi>William Roberts</hi> Knight, <hi>Chriſtopher Whitch<g ref="char:EOLhyphen"/>cot</hi> Eſquire, ſir <hi>John Thorowgood</hi> of <hi>Kenſington, Edward Creſſet, William Trumbel, Thomas Wood,</hi> 
+               <abbr>Eſqs</abbr> Doctor <hi>Thomas Cox, Nicholas Lockier, Nathaniel Ingelo,</hi> Fellows of <hi>Eaton</hi> Colledge; The Major of <hi>Windſor</hi> for the time being, <hi>Mat<g ref="char:EOLhyphen"/>thew Day, William Mills, Thomas Chapman</hi> Al<g ref="char:EOLhyphen"/>derman of the ſaid Town of <hi>Windſor, Richard Winch, Alexander Hays,</hi> Gentlemen, or any Five or more of them; and ſuch others whoſe uſu<g ref="char:EOLhyphen"/>al places of habitation ſhall be at <hi>New-Wind<g ref="char:EOLhyphen"/>ſor</hi> or <hi>Eaton,</hi> or within Thirty Miles of the ſame, which ſhall from time to time for ever hereafter be nominated and choſen in and to the places and ſteads of ſuch of them as ſhall deceaſe, or for juſt cauſe be removed by the
+<pb n="32" facs="tcp:112824:4"/>moſt part of them which then ſhall be Gover<g ref="char:EOLhyphen"/>nors, to be and ſucceed in the place and places of him or them deceaſing, or ſo being removed, ſhall and may be Governor of the ſaid Alms-Houſes, and of the Members, Goods, Lands, Tenements, Revenues and Hereditaments of the ſame, at all times for ever hereafter: And the ſaid Governors and Alms-Houſes ſhall for ever hereafter ſtand and be incorpo<g ref="char:EOLhyphen"/>rated, eſtabliſhed and founded in Name and in Deed of a Body Politique and Corporate, to have Continuance for ever by the Name of <hi>The Governors of the Alms-Houſes of WINDSOR Caſtle,</hi> and that the ſaid Governors may have a perpetual Succeſſion for ever; And that they and their Succeſſors may for ever here<g ref="char:EOLhyphen"/>after have, hold and enjoy, and to all intents and purpoſes, and ſhall from heneceforth and for ever ſtand and be actually ſeized and poſſeſ<g ref="char:EOLhyphen"/>ſed of the Structures, Meſſuages, Lands, Rents, Revenues, Profits, Tenements and Hereditaments hereafter mentioned, The ſaid <hi>Act for aboliſhing of Deans, Deans and Cha<g ref="char:EOLhyphen"/>pters, &amp;c.</hi> or any other Law or Statute to the contrary notwithſtanding; That is to ſay, The Structures or Alms-Houſes called <hi>The Poor Knights Lodgings in <hi>Windſor</hi> Caſtle,</hi> with all Rooms, Out-yards, Gardens, or any other the Appurtenances thereunto belonging, in as large and ample maner, to all intents and purpoſes whatſoever, as the ſaid late Dean and Canons, or any perſon or perſons claim<g ref="char:EOLhyphen"/>ing by, from or under them, did or might en<g ref="char:EOLhyphen"/>joy the ſame; and alſo of and in the ſeveral Rectories and Parſonages, with all and ſin<g ref="char:EOLhyphen"/>gular their and every of their Rights, Mem<g ref="char:EOLhyphen"/>bers
+<pb n="33" facs="tcp:112824:4"/>and Appurtenances, Lands, Tenements and Hereditaments whatſoever hereafter ex<g ref="char:EOLhyphen"/>preſſed; that is to ſay, All thoſe the Parſo<g ref="char:EOLhyphen"/>nages or Rectories impropriate of <hi>St. Jermans, Upwimborn, All Saints, Wimborn, Franckfaln, Shaw, Plimpton, S. Maries Plimſtock, Sampford, Spyny, Plympton, Mary Brigſton, Broadwinch, Ottrey, S. Mary Northam, Ipplepen, South-Mowl<g ref="char:EOLhyphen"/>ton</hi> and <hi>Ilſington,</hi> lying and being in the ſeveral Counties of <hi>Cornwal, Dorſet</hi> and <hi>Devon,</hi> ſome or one of them; and all that the Rectory or Parſonage impropriate of <hi>Aberguilly</hi> in the County o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Carmarthen;</hi> all that Rectory or Parſonage impropriate of <hi>Mara <hi>alias</hi> Llangarth,</hi> in the County of <hi>Brecon;</hi> and all that the Re<g ref="char:EOLhyphen"/>ctory of <hi>Icorn</hi> in the County of <hi>Gloceſter;</hi> and all that the Rectory of <hi>Eaſt-Beachworth</hi> in the County of <hi>Surrey;</hi> and all that the Rectory or Parſonage impropriate of <hi>Iſtleworth <hi>cum</hi> Twickenham,</hi> in the County of <hi>Middleſex;</hi> and all that the Rectory of <hi>Ikleton</hi> in the County of <hi>Cambridge;</hi> and all that the Rectory of <hi>Ship<g ref="char:EOLhyphen"/>lake</hi> in the County of <hi>Oxon;</hi> and all thoſe the ſeveral Prebends of <hi>Alcamings</hi> and <hi>Urſhfont,</hi> together with the Parſonage of <hi>Urſhfont,</hi> in the County of <hi>Wilts,</hi> and certain Tythes be<g ref="char:EOLhyphen"/>longing to the Prebend of <hi>Bedwyn,</hi> in the ſame County; and alſo all thoſe the ſeveral Recto<g ref="char:EOLhyphen"/>ries or Parſonages impropriate of <hi>Ambroſhbu<g ref="char:EOLhyphen"/>ry, Titcomb, Froxfield</hi> and <hi>Staleford,</hi> in the ſaid County of <hi>Wilts,</hi> or by what other Name or Names ſoever the ſaid Rectories or Parſo<g ref="char:EOLhyphen"/>nages and Premiſes reſpectively are called or known; together with all and every the Gleab-Lands, Tythes, Portions of Tythes, Fruits, Profits, Emoluments and Appurte<g ref="char:EOLhyphen"/>nances
+<pb n="34" facs="tcp:112824:5"/>whatſoever, to the ſaid ſeveral Recto<g ref="char:EOLhyphen"/>ries, Parſonages and Premiſes reſpectively belonging, or in any wiſe appertaining or acce<g ref="char:EOLhyphen"/>pted, reputed or taken as part, parcel or mem<g ref="char:EOLhyphen"/>ber of them or any of them, late parcel of the poſſeſſions of the late Dean and Canons of the late Kings Free-Chappel of <hi>S. George</hi> in <hi>New-Windſor,</hi> as Feoffees in Truſt for the Vſes aforeſaid (Except all ſuch reſpective parts and parcels of any the ſaid Rectories, Parſona<g ref="char:EOLhyphen"/>ges, Lands, Tenements and Hereditaments as have been heretofore ſold by the Contract<g ref="char:EOLhyphen"/>ors for Sale of Deans and Chapters Lands, and for which any the Purchaſers have paid in the reſpective firſt Moyeties of their Pur<g ref="char:EOLhyphen"/>chaſe-Moneys) To be held for ever hereafter by the ſaid Governors and their Succeſſors, of His Highneſs the Lord Protector and His Succeſſors, in free and perpetual Alms, abſo<g ref="char:EOLhyphen"/>lutely acquitted, and for ever hereafter diſ<g ref="char:EOLhyphen"/>charged of, &amp; from all Aſſeſſments and Taxes whatſoever, ordinary and extraordinary, here<g ref="char:EOLhyphen"/>tofore granted by Parliament or otherwiſe, or by or upon any other pretence demanded or claimed; And that the ſaid Governors &amp; their Succeſſors, by the ſame name, ſhall and may have power, and are hereby authorized to De<g ref="char:EOLhyphen"/>miſe and Grant any of the before-mentioned Rectories, Lands or Premiſes (the ſaid Alms-Houſes and places of habitation heretofore de<g ref="char:EOLhyphen"/>ſigned and uſed for the ſaid <hi>Poor Knights,</hi> or any of the Officers or Servants to the ſaid Alms-Houſes belonging within the Caſtle of <hi>New-Windſor</hi> aforeſaid excepted) to any perſon or perſons whatſoever, not being a Governor or Governors thereof, for or under, or not above
+<pb n="35" facs="tcp:112824:5"/>or exceeding the Term of the Twenty and one years in Poſſeſſion, and not in Reverſion; whereupon ſhall be Yearly reſerved at leaſt Three fourth parts of the true Yearly value of the ſame, to be rated by a juſt Survey to be taken thereof within Ten years before every ſuch Demiſe and Grant, and to take, require and purchaſe, and to ſue and be ſued, and to do, perform and execute, all and every other lawful act and acts, thing and things, good, neceſſary, or profitable for the ſaid Incorpora<g ref="char:EOLhyphen"/>tion, and the Charitable and Pious Vſes aforeſaid, in as full and ample maner and form, to all intents, conſtructions and purpo<g ref="char:EOLhyphen"/>ſes, as any other Incorporation, or Body Po<g ref="char:EOLhyphen"/>litique or Corporate, fully and perfectly foun<g ref="char:EOLhyphen"/>ded and incorporated may do: And that the ſame Governors and their Succeſſors for the time being, or any Five or more of them, may make, have and uſe one Common Seal, ſuch as they ſhall think fit, for the doing and con<g ref="char:EOLhyphen"/>firming all and every thing and things, touch<g ref="char:EOLhyphen"/>ing or in any wiſe concerning the ſaid Incor<g ref="char:EOLhyphen"/>poration, or the Charitable or Pious Vſes aforeſaid, other then ſuch acts and things as are hereafter appointed to be done and perfor<g ref="char:EOLhyphen"/>med by a greater number of the Governors.</p>
+            <p>And be it Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all and every Tenant and Tenants of the ſaid Rectories, Parſonages, Meſſua<g ref="char:EOLhyphen"/>ges, Lands, Tenements and Hereditaments herein before-mentioned, or any of them; and every perſon and perſons claiming by, from or under them or any of them, ſhall henceforth pay the ſeveral Yearly Rents, Sums of Mo<g ref="char:EOLhyphen"/>ney, and other Annual Revenues and Profits
+<pb n="36" facs="tcp:112824:6"/>ariſing out of the Premiſes reſpectively, unto the ſaid Governors and their Succeſſors, or unto ſuch perſon or perſons as they ſhall ap<g ref="char:EOLhyphen"/>point in the Houſe called <hi>The Governors Houſe or Lodgings in <hi>Windſor</hi> Caſtle, belonging to the Poor Knights,</hi> or ſuch other place as ſhall be ap<g ref="char:EOLhyphen"/>pointed by the ſaid Governors or any Nine or more of them, at ſuch days and times as the ſame ſhall reſpectively become due and pay<g ref="char:EOLhyphen"/>able; and in default thereof, to ſuffer all ſuch Forfeitures for Non-payment, as either here<g ref="char:EOLhyphen"/>tofore they were, or hereafter they ſhall be ſub<g ref="char:EOLhyphen"/>ject to by any Covenants, Proviſo's, or A<g ref="char:EOLhyphen"/>greements made between them the ſaid Te<g ref="char:EOLhyphen"/>nants, and the ſaid late Dean and Canons, or the ſaid Governors and their Succeſſors.</p>
+            <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the Governors and their Succeſſors ſhall have, receive and take all ſuch of the ſaid Yearly Rents and Sums of Mo<g ref="char:EOLhyphen"/>ney, and other Annual Revenues and Pro<g ref="char:EOLhyphen"/>fits as became due and payable at any time ſince the laſt Payments thereof made, either to the ſaid late Dean and Canons, or to the Parliament, or any authorized by them to re<g ref="char:EOLhyphen"/>ceive the ſame, teſtified by their lawful Ac<g ref="char:EOLhyphen"/>quittances reſpectively; And ſhall and may call to accompt all and every the Tenant and Tenants of the ſaid Lands and Premiſes, concerning any ſuch Arrerages as aforeſaid: And if any the ſaid Tenants refuſe to pay ſuch Arrerages unto the ſaid Governors and their Succeſſors, or unto ſuch perſon or perſons as they ſhall appoint, Then the ſaid Governors and their Succeſſors, ſhall and may at their Election either take the aforeſaid Forfeitures,
+<pb n="37" facs="tcp:112824:6"/>or bring an Action of Debt againſt every ſuch Tenant or Tenants, perſon and perſons, his and their Heirs, Executors and Adminiſtra<g ref="char:EOLhyphen"/>tors, in any of the Courts at <hi>Weſtminſter</hi> or elſwhere, and recover the ſame with Coſts and Damages; In which ſaid laſt mentioned Action or Actions of Debt, no Defendant or Defendants ſhall be admitted to plead any Statute or Statutes of limitations of Acti<g ref="char:EOLhyphen"/>ons, Any Law, Statute or Statutes to the contrary in any wiſe notwithſtanding.</p>
+            <p>And be it Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the ſaid Governors and their Suc<g ref="char:EOLhyphen"/>ceſſors, ſhall for ever hereafter, out of the Lands, Tenements, Rents and Revenues hereby eſtabliſhed, maintain the ſaid Alms-houſes and the Members of every of them, and ſhall order, rule and govern the ſame, ac<g ref="char:EOLhyphen"/>cording to ſuch Statutes as are to be found amongſt the Statutes of the late Dean and Canons of <hi>Windſor,</hi> touching or concerning the ſaid Alms-Houſes, and other the ſaid Chari<g ref="char:EOLhyphen"/>table and Pious Vſes, or by ſuch other Sta<g ref="char:EOLhyphen"/>tutes, Rules and Orders, as ſhall at any time be conceived and made by the ſaid Gover<g ref="char:EOLhyphen"/>nors, or any Five or more of them, under their common ſeal, for the better rule &amp; government of the ſame, not being ſuperſtitious nor deroga<g ref="char:EOLhyphen"/>tory to the Government now eſtabliſhed, nor repugnant to any the ſtanding Laws of this Nation: And the ſaid Governors and their Succeſſors, or any Nine or more of them, are authorized and hereby enabled from time to time, to place ſuch perſon or perſons (as have faithfully ſerved the Commonwealth as Com<g ref="char:EOLhyphen"/>miſſion'd Officers in the Army, and are now
+<pb n="38" facs="tcp:112824:7"/>out of Commiſſion, and uncapable of doing Service, either by reaſon of Age, or for want of ſome Limb loſt in their Service; provided, that ſince their ſaid ſervice done for the Com<g ref="char:EOLhyphen"/>monwealth, they have not acted any thing prejudicial to the Commonwealth, nor are diſ<g ref="char:EOLhyphen"/>ſatisfied with the preſent Government) in the ſaid Alms-Houſes, in any place which now is, or hereafter ſhall be void, as they ſhall think moſt deſerving: Provided always, That the Recommendation, Approbation or Conſent of His Highneſs the now Lord Protector du<g ref="char:EOLhyphen"/>ring his natural Life, and his Succeſſors, for the placing of ſuch perſon or perſons reſpe<g ref="char:EOLhyphen"/>ctively, be firſt had and obtained.</p>
+            <p>And be it Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the ſaid Governors and their Suc<g ref="char:EOLhyphen"/>ceſſors, or any Nine or more of them, ſhall have Power to remove any that now are, or hereafter ſhall be Preachers in the Town and Caſtle of <hi>New-Windſor,</hi> for Scandal or other juſt cauſe; and within Three moneths next after any of them ſo removed, or after the de<g ref="char:EOLhyphen"/>ceaſe of any of them, to elect in the place of him or them ſo removed or deceaſed, ſuch able, learned and godly Preachers, as they ſhall think moſt deſerving; And ſhall from time to time chooſe ſuch fit perſon or perſons into the place or places of Regiſter, Chappel-Clerk, Sexton, Clock-keeper and Bell-ringer, and Porter, as they ſhall finde able and honeſt, when they come to make an Eſtabliſhment under their Common Seal: And the ſaid Go<g ref="char:EOLhyphen"/>vernors and their Succeſſors, or any Nine or more of them, are hereby further authorized and enabled, to make choice of Four Scholars
+<pb n="39" facs="tcp:112824:7"/>from time to time as they ſhall think fit, to be ſent to the Vniverſities aforeſaid; And are hereby further authorized to make ſuch Alow<g ref="char:EOLhyphen"/>ance to the ſaid Preachers, the ſaid Four Scholars, the ſaid neceſſary Officers, and the ſaid Alms-men, and ſo far to relieve and imploy the poor at work, and repair the Church or Chappel in <hi>Windſor</hi> Caſtle, and the ſaid Alms-Houſes, as the Rents, Revenues and Profits any way ariſing from the Premiſes can any ways bear or be charged with.</p>
+            <p>And whereas His Highneſs is likewiſe in<g ref="char:EOLhyphen"/>formed, That Sir <hi>Peter Lemeir</hi> and Sir <hi>Francis Crane,</hi> Knights, deceaſed, intended a further Addition of Five poor Knights or Alms-men to thoſe formerly in <hi>Windſor</hi> Caſtle, did by their ſeveral laſt Wills and Teſtaments deviſe and give a certain Proportion of Land and Mo<g ref="char:EOLhyphen"/>ney for the Erecting of Five Houſes, and com<g ref="char:EOLhyphen"/>petent maintenance for ſuch additional Alms-men or <hi>Poor Knights</hi> ſo to be eſtabliſhed as afore<g ref="char:EOLhyphen"/>ſaid; Be it therefore Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the ſaid Five Alms-men or <hi>Poor Knights</hi> ſo to be added, ſhall be of the Foundation, and under the Government and Rule aforeſaid: And the ſaid Governors, or any Five or more of them, are hereby autho<g ref="char:EOLhyphen"/>rized to call before them the Executors or Ad<g ref="char:EOLhyphen"/>miniſtrators, and all and every perſon and perſons any way concerned in the execution of the Wills of Sir <hi>Peter Lemeir</hi> and Sir <hi>Francis Crane</hi> touching the Premiſes, and to require the ſame to be done and ſettled accordingly; And to make ſuch Laws, Orders and De<g ref="char:EOLhyphen"/>crees for the Settlement thereof, not deroga<g ref="char:EOLhyphen"/>tory to the Government hereby eſtabliſhed, as
+<pb n="40" facs="tcp:112824:8"/>are agreeable to the Wills and Intentions of the ſaid Sir <hi>Peter Lemeir</hi> and Sir <hi>Francis Crane,</hi> and moſt convenient and neceſſary for the E<g ref="char:EOLhyphen"/>ſtabliſhment and Maintenance of the ſaid Ad<g ref="char:EOLhyphen"/>ditional Alms-Men or <hi>Poor Knights,</hi> and the ſame to certifie and return under the Hands and Seals of the ſaid Governors, or any Five or more of them, into the Court of <hi>Chancery.</hi>
+            </p>
+            <p>And it is hereby Ordained, That the Lords Commiſſioners of the Great Seal of <hi>England</hi> for the time being, ſhall require and inforce the due execution and performance of the ſaid Orders and Decrees, as in other Caſes of Charitable Vſes is uſually done and per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>And foraſmuch as His Highneſs is inform<g ref="char:EOLhyphen"/>ed and fully ſatisfied, That the Rectories, Parſonages, Lands, Tenements and Here<g ref="char:EOLhyphen"/>ditaments, and Premiſes before ſpecified, af<g ref="char:EOLhyphen"/>ter the expiration and determination of the ſeveral Eſtates and Terms of Years now in being, may be improved over and above the preſent Rents and Sums of Money reſerved, due or payable upon any Demiſe, Leaſe or Grant now in being of the Premiſes, which do in the whole amount unto the Sum of Ele<g ref="char:EOLhyphen"/>ven hundred eighty ſix pounds thirteen ſhil<g ref="char:EOLhyphen"/>lings and five pence by the year.</p>
+            <p>And for that alſo it is the true intent and meaning of His Highneſs, that the ſaid Cha<g ref="char:EOLhyphen"/>ritable and Pious Vſes ſhall be fully ſatisfied and performed from henceforth and for ever, out of the Rents, Iſſues, Revenues and Pro<g ref="char:EOLhyphen"/>fits of the Premiſes, His Highneſs hath, by and with the Conſent of His Council Ordai<g ref="char:EOLhyphen"/>ned, and it is Ordained by the Authority
+<pb n="41" facs="tcp:112824:8"/>aforeſaid, That all and ſingular the Rents, Sum and Sums of Money, Iſſues, Reve<g ref="char:EOLhyphen"/>nues and Profits of all and every the Recto<g ref="char:EOLhyphen"/>ries, Parſonages, Lands, Tenements, He<g ref="char:EOLhyphen"/>reditaments and Premiſes before-mentioned, over and above the Sum of Eleven hundred eighty ſix pounds thirteen ſhillings and five pence, wherewith the ſame Premiſes ſtand charged to the charitable and pious Ends and Purpoſes aforeſaid, ſhall be and remain from henceforth and for ever, at the onely Diſpoſi<g ref="char:EOLhyphen"/>tion and Appointment of His Highneſs and His Succeſſors, to ſuch Vſes, Intents and Purpoſes as His Highneſs, with the Aſſent of His Council, ſhall from time to time limit and appoint, Any thing in this preſent Or<g ref="char:EOLhyphen"/>dinance contained to the contrary in any wiſe notwithſtanding.</p>
+            <closer>
+               <dateline>Paſſed <date>2 <hi>September.</hi> 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday</hi> the Fifteenth of <hi>February,</hi> 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord Protector and the Council, That the Ordinance, [Entituled, <hi>An Ordinance for the Continuance and Maintenance of the Alms-Houſes and Alms-Men, called <hi>Poor Knights,</hi> and other Charitable and Pious <g ref="char:V">Ʋ</g>ſes, whereof the late Dean and Canons of <hi>Windſor</hi> were Feoffees in Truſt</hi>] being paſſed by His Highneſs the Lord Protector, with the Conſent of His Council, on <hi>Saturday</hi> the Second of <hi>September,</hi> 1654. be Printed and Publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs. MDCLV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
